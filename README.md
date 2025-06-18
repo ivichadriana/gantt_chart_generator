@@ -17,7 +17,8 @@ Visualise your timelines in publication‑ready Gantt chart! I used this for my 
 
 ## Defining Tasks
 
-### I included a CSV File with example tasks to get started.
+### All you need is a .csv file called "project_tasks.csv" (included here).
+#### The structure should be task,start date,end date
 #### Here is an example of what it should look like:
 
 ```csv
