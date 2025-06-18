@@ -18,6 +18,7 @@ Visualise your timelines in publication‑ready Gantt chart! I used this for my 
 ## Defining Tasks
 
 ### CSV File with your tasks! (you can paste from Excel)
+#### Here is an example:
 
 ```csv
 name,start,end
