@@ -17,8 +17,8 @@ Visualise your timelines in publication‑ready Gantt chart! I used this for my 
 
 ## Defining Tasks
 
-### CSV File with your tasks! (you can paste from Excel)
-#### Here is an example:
+### I included a CSV File with example tasks to get started.
+#### Here is an example of what it should look like:
 
 ```csv
 name,start,end
@@ -30,6 +30,9 @@ Aim 3 paper revisions,2025‑09‑10,2026‑01‑10
 LLM project execution and publication,2025‑10‑10,2026‑01‑10
 Job Search,2026‑10‑10,2026‑04‑20
 ```
+
+#### You can always (once repo is cloned) click "edit" and paste your own from Excel.
+
 ---
 
 ## Customisation Tips
