@@ -1,6 +1,6 @@
 # Generate a Gantt chart easily!
 
-Visualise your timelines in publication‑ready Gantt chart! I used this for my Ph.D. and everyone is welcome to use for any project.
+No coding needed. Visualise your timelines in publication‑ready Gantt chart! I used this for my Ph.D. and everyone is welcome to use for any project. You only [need to have python installed in your computer](https://www.python.org/downloads/) and follow the isntructions below. 
 
 ---
 #
