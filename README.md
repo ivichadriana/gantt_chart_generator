@@ -3,6 +3,8 @@
 Visualise your timelines in publication‑ready Gantt chart! I used this for my Ph.D. and everyone is welcome to use for any project.
 
 ---
+#
+![Example result:](gantt_chart.png)
 
 ## Features
 
