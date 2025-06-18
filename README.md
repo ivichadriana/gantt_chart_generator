@@ -1,6 +1,6 @@
 # Generate a Gantt chart easily!
 
-Visualise your timelines in publication‑ready Gantt chart! I used this for my Ph.D. and everyone is welcome to use for any project (why use an existing package when you cna spent time creating your own)
+Visualise your timelines in publication‑ready Gantt chart! I used this for my Ph.D. and everyone is welcome to use for any project.
 
 ---
 
