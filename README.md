@@ -4,7 +4,7 @@ Visualise your timelines in publication‑ready Gantt chart! I used this for my 
 
 ---
 
-## ✨ Features
+## Features
 
 |                          | What it does                                                                 |
 | ------------------------ | ---------------------------------------------------------------------------- |
@@ -29,29 +29,6 @@ Aim 3 paper revisions,2025‑09‑10,2026‑01‑10
 LLM project execution and publication,2025‑10‑10,2026‑01‑10
 Job Search,2026‑10‑10,2026‑04‑20
 ```
-
-Load with Pandas:
-
-```python
-import pandas as pd
-TASKS = pd.read_csv("project_tasks.csv", parse_dates=["start", "end"])
-```
-
----
-
-## Usage in Code
-
-```python
-from gantt import build_gantt
-build_gantt(TASKS,
-            title="Remainder of Ph.D.",
-            cmap="Set3",          # or list of hex colours
-            outfile="phd_timeline.png")
-```
-
-* **`cmap`** can be any Matplotlib colormap name or `None` if you supply your own colour list.
-* **`outfile`** controls whether the figure is saved; omit it to just show the window.
-
 ---
 
 ## Customisation Tips
