@@ -33,6 +33,17 @@ Job Search,2026‑10‑10,2026‑04‑20
 ```
 
 #### You can always (once repo is cloned) click "edit" and paste your own from Excel.
+---
+
+---
+
+## New to GitHub or Jupyter NB? Just do this in your terminal after defining tasks in .csv:
+
+$ git clone https://github.com/ivichadriana/gantt_chart_generator.git
+$ cd gantt_chart_generator
+$ python create_gantt_chart.py
+
+#### (Notebook and script have same content)
 
 ---
 
